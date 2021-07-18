@@ -2,6 +2,7 @@
 
 Know-Your-Animoji is a basic app build in ReactJS.
 This is a beginner project to get started with **REACTJS**
+In this app, you can enter an animal emoji and know which animal it is. Also you can click on the emojis and know which emoji it is.
 <br>
 
 <h2>Live Application URL</h2>
