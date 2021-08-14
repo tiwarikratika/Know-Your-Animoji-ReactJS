@@ -38,7 +38,7 @@ export default function App() {
     let emoticon = event.target.value;
     if (emojiDict[emoticon] === undefined) {
       console.log(emojiDict[emoticon]);
-      setMeaning("type an emoji or select one to know its meaning");
+      setMeaning("Sorry!! This does not exist in our database.");
     } else {
       setMeaning(emojiDict[emoticon]);
     }
